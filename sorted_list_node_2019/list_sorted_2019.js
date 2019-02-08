@@ -6,7 +6,7 @@
 // STEP 1 - Initialize function expression and require sorted_list_function_2019.js
 let sortFunction = require('./sorted_list_function_2019');
 
-// STEP 2 - Grab numbers individually from list in module
+// STEP 2 - Initialize variable to grab numbers individually from list in module
 let num = process.argv.slice(2);
 
 // STEP 3 - Execute function 'addToList' on number variable
